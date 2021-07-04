@@ -1,0 +1,13 @@
+{
+    "allUserDetails": [
+        {
+            "userName": "somi singh",
+            "password": "somiS@22",
+            "Profile": {
+                "DOB": "20-09-9999",
+                "gender": "female",
+                "hobby": "danc"
+            }
+        }
+    ]
+}
